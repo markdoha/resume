@@ -1,0 +1,6 @@
+# Git ignore
+*.jpg
+*.png
+*.gif
+*.ico
+*.DS_Store
